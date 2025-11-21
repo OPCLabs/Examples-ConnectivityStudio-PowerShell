@@ -7,8 +7,8 @@
 # In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 # http:#kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 #
-# Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-# OPC client and subscriber examples in PowerShell on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-PowerShell .
+# Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+# OPC client and subscriber examples in PowerShell on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-PowerShell .
 # Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 # a commercial license in order to use Online Forums, and we reply to every post.
 
